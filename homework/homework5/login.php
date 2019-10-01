@@ -56,6 +56,7 @@
 echo $error;
  ?>
  <main>
+ <h1>Log In To See The Newest Content From Team UX!</h1>
     <div class="container">
         <form action="login.php" method="POST">
             <label for="email">Email</label>
