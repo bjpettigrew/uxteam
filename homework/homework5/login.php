@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html>
 <?php include('includes/header.php'); ?>
 
 <style>
@@ -94,3 +95,4 @@ if(empty($email)) {
 
 
 <?php include('includes/footer.php'); ?>
+</html>
