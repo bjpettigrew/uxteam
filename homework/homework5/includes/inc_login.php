@@ -1,4 +1,5 @@
 <?php include('includes/header.php'); ?>
+<?php include('includes/style.css')?>
 <h1>Login Page</h1>
 <?php
 echo $error;
