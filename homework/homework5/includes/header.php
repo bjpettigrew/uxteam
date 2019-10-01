@@ -4,9 +4,9 @@
     <head>
         <meta charset="utf-8">
         <title>Homepage</title>
+        <?php include('includes/style.css');?>
 
 
-<link href="includes/style.css" rel="stylesheet" type="text/css">
     </head>
 
     <body>

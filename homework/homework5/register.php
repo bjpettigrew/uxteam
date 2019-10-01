@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-<header>
+<meta charset="utf-8">
+
 <?php include('includes/header.php');?>
+<?php include('includes/style.css');?>
 
     <?php
         $first = "";
@@ -9,7 +11,7 @@
         $email = "";
         $password = "";
 ?>
-</header>
+
 <main>
      <h1>MAIN CONTENT REGISTRATION PAGE</h1>
 
