@@ -3,8 +3,6 @@
 <header>
 <?php include('includes/header.php');?>
 
-<?php include('includes/style.css');?>
-
     <?php
         $first = "";
         $last = "";

@@ -1,7 +1,7 @@
 <?php // Run THIS " php -S localhost:3000 "?>
 
 <?php
-// $homepage = true;
+$homepage = true;
 include('includes/header.php'); ?>
 
         <main>

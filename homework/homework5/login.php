@@ -4,7 +4,8 @@
 <meta charset="utf-8">
 <?php include('includes/header.php'); ?>
 
-<style>
+
+<style type=”text/css”>
 
     ul {
         margin-left: 5px;
