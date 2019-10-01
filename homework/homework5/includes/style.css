@@ -39,6 +39,11 @@
         margin-top: 2%;
         font-weight: bold;
         }
+        #image {
+            border: ridge 10px grey;
+            padding 3%;
+            background-color: black;
+        }
     button {
         background-color: #fd6a02;
         }
