@@ -1,6 +1,9 @@
+<!DOCTYPE html>
+<html>
+<header>
 <?php include('includes/header.php');?>
 
-<?php include('/style.css'); ?>
+<?php include('includes/style.css');?>
 
     <?php
         $first = "";
@@ -8,6 +11,7 @@
         $email = "";
         $password = "";
 ?>
+</header>
 <main>
      <h1>MAIN CONTENT REGISTRATION PAGE</h1>
 
@@ -19,3 +23,4 @@
 
 
 <?php include('includes/footer.php');?>
+</html>
