@@ -3,6 +3,7 @@
 <?php include('includes/header.php'); ?>
 
 <style>
+<head>
     ul {
         margin-left: 5px;
         }
@@ -44,6 +45,7 @@
         }
 
 </style>
+</head>
 <!-- html login page !-->
 <h1>Login Page</h1>
 <br>
@@ -80,6 +82,10 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 if(empty($email)) {
     // output error message
     $error = "Enter your Email";
+    }
+    if(empty($password)) {
+    // output error message
+    $error = "Enter your Password";
     }
 
     if(!isset($error)) {
