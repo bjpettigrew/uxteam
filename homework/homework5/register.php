@@ -1,6 +1,6 @@
 <?php include('includes/header.php');?>
 
-<?php include('includes/style.css'); ?>
+<?php include('/style.css'); ?>
 
     <?php
         $first = "";
