@@ -2,7 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<meta charset="utf-8">
+<?php
+$homepage = true;
+include('includes/header.php'); ?>
 <?php include('includes/style.css');?>
 </head>
         <main>
