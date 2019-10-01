@@ -60,7 +60,7 @@
 
 </head>
 <main>
-     <h1>MAIN CONTENT REGISTRATION PAGE</h1>
+     <h1>REGISTER HERE TO JOIN TEAM UX!</h1>
 
     <?php include('includes/inc_registration.php');?>
 

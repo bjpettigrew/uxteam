@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <?php include('includes/header.php'); ?>
-<?php include('includes/style.css');?>
+
 
 <style>
 
@@ -50,7 +50,7 @@
 </style>
 </head>
 <!-- html login page !-->
-<h1>Login Page</h1>
+
 <br>
 <?php
 echo $error;

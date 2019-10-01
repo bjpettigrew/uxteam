@@ -1,6 +1,6 @@
 <?php include('includes/header.php'); ?>
 <?php include('style.css')?>
-<h1>Login Page</h1>
+<h1>Log In To Team UX Here!</h1>
 <?php
 echo $error;
  ?>
