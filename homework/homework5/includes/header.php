@@ -6,7 +6,7 @@
         <title>Homepage</title>
 
 
-<link href="style.css" rel="stylesheet">
+<link href="includes/style.css" rel="stylesheet" type="text/css">
     </head>
 
     <body>
