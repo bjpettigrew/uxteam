@@ -2,9 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<?php
-$homepage = true;
-include('includes/header.php'); ?>
+
+<?php include('includes/style.css');?>
 </head>
         <main>
             <h1>This is the Homepage</h1>
