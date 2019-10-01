@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
+<head>
+<meta charset="utf-8">
 <?php include('includes/header.php'); ?>
 
 <style>
-<head>
+
     ul {
         margin-left: 5px;
         }
