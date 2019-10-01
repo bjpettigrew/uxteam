@@ -9,7 +9,10 @@ include('includes/header.php'); ?>
 <?php include('includes/style.css');?>
 </head>
         <main>
-            <h1>This is the Homepage</h1>
+            <h1>Welcome to Team UX!</h1>
+            <div id="image">
+            <img src="https://res.cloudinary.com/bayleigh/image/upload/v1569913140/php%20module4/1_po5qQpUa34cJcneeXrHqJw_k9w1cr.png">
+            </div>
         </main>
 
 <?php include('includes/footer.php'); ?>
