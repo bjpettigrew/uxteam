@@ -6,7 +6,9 @@
 <?php
 echo $error;
  ?>
-  <form action="login.php" method="POST">
+ <main>
+    <div class="container">
+        <form action="login.php" method="POST">
             <label for="email">Email</label>
             <input type="email" id="email" name="email" value="<?php echo $email;?>"><br><br>
 
@@ -15,6 +17,8 @@ echo $error;
             <input type="password" id="password" name="password"><br><br>
             <button>Submit</button>
         </form>
+    </div>
+</main>
 <br>
 
 <?php
