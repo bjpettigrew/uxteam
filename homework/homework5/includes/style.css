@@ -43,6 +43,7 @@
             border: ridge 10px grey;
             padding 3%;
             background-color: black;
+            padding: 15px auto;
         }
     button {
         background-color: #fd6a02;
