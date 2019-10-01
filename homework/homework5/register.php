@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<header>
+<head>
 <meta charset="utf-8">
 
 <?php include('includes/header.php');?>
@@ -58,7 +58,7 @@
 </style>
 
 
-</header>
+</head>
 <main>
      <h1>MAIN CONTENT REGISTRATION PAGE</h1>
 
