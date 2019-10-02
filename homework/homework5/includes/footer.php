@@ -1,6 +1,6 @@
 
         <footer>
-            <p>COSW30 LBCC &copy; 9/27/19 Classwork</p
+            <p>COSW30 LBCC &copy; 10/01/19 Classwork - UX - Bayleigh Pettigrew, Ona Fong-Surdenas, Sun Kim, Oscar Flores Jr</p
         </footer>
     </body>
 </html>
